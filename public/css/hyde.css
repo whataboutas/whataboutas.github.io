@@ -132,6 +132,45 @@ a.sidebar-nav-item:focus {
     height: 100%;
 }
 
+.nav1 {
+    background-color: #FFFFFF;
+    height: 120px;
+    width: auto;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #333333;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+}
+
+.images{
+    display:inline-block;
+    width: auto; 
+    height: 100px; 
+    /*padding: 0.5em;*/
+    margin: 0.5em 0.5em 0.5em 0.5em;
+    border-radius: 5px;
+    /*border: solid 5px blue;*/
+    box-shadow: rgba(0,0,0,0.75) 10px 10px transparent;
+   }
+
+ a.images:hover
+{
+/*border-color: aqua;*/
+    box-shadow: rgba(0,0,0,0.1) 0 0 5px 3px;
+
+
+
+}
+
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
