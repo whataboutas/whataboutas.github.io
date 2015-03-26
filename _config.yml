@@ -3,18 +3,23 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
+title:            What about Angela & Silvester?
+tagline:          Ein Reiseblog
+url:              http://whataboutas.github.io
+paginate:         5
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Angela & Silvester
+  url:            
+  email:     
+  
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  Archiv: '/archive/'
+
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           
 highlighter: rouge
