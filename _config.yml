@@ -22,4 +22,4 @@ pages_list:
 version:          1.0.0
 github:
   repo:           
-highlighter: rouge
+highlighter: pygments
