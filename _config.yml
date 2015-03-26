@@ -18,3 +18,4 @@ version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
 highlighter: rouge
+encoding: UTF-8
