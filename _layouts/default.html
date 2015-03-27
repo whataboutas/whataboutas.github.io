@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
+<script src="/js/jquery-1.11.0.min.js"></script>
+<script src="/js/lightbox.min.js"></script>
+<link href="/css/lightbox.css" rel="stylesheet" />
+
   {% include head.html %}
 
   <body class="layout-reverse">
@@ -11,11 +15,12 @@
 
       <main>
         {{ content }}
+
       </main>
 
       <footer class="footer">
         <small>
-          Angela & Silvester <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>.
+          Content: Angela & Silvester. Design: Silvester <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>.
         </small>
       </footer>
     </div>

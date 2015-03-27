@@ -1,0 +1,5 @@
+test
+
+<div>
+{% image_set images/04 %}
+</div>

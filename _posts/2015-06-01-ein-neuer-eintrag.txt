@@ -1,0 +1,16 @@
+---
+layout: post
+title: Ein neuer Eintrag!
+location: Vienna, Austria
+---
+
+So, jetzt werden wir mal ernst!
+Funktioniert markdown noch?
+
+1. Ja
+2. Nein?
+3. Vielleicht?
+
++ Test
++ Test2
++ Test3

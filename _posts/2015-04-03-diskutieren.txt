@@ -1,0 +1,7 @@
+---
+layout: post
+title: Diskutieren?
+comments: True
+---
+
+Kann manhier denn diskutieren?
