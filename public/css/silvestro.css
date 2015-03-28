@@ -6,10 +6,31 @@ body {
   text-align:justify;
 }
 
+.content {
+position:relative;
+margin-left: 23rem;
+margin-right:5rem;
+    /*background-color: #000;*/
+}
+@media (max-width: 48em) {
+  .content {
+position:relative;
+margin-left: 1rem;
+margin-right: 1rem;
+    /*background-color: #000;*/
+  }
+}
+
+.masthead {
+  padding-top:    0rem;
+  padding-bottom: 1rem;
+  margin-bottom: 0rem;
+}
+
 .fluidMedia {
     position: relative;
     /*padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
-    padding-bottom: 100%; 
+    padding-bottom: 56.25%; 
     padding-top: 30px;
     height: 0;
     overflow: hidden;
@@ -34,7 +55,9 @@ img {
 
 .img-wide {
   display: block;
-  max-width: 100%;
+  width: 100%;
+  /*height: 10em;
+  overflow: hidden;*/
   margin: 1rem 0rem 1rem;
   border-radius: 5px;
 
@@ -45,15 +68,26 @@ img {
 }
 
 .sidebarimage {
-  display: inline-block;
-  max-width: 80%;
-  margin: 0rem 0.3rem 0;
+ position:relative;
+  max-width: 70%;
+  max-width: 10em;
+  margin: 2rem 0rem 3rem;
+  /*margin-bottom: 3rem;
+    margin-left:  auto;
+  margin-right: auto;*/
   border-radius: 500px;
   	-webkit-border-radius: 500px;
 	-moz-border-radius: 500px;
   box-shadow: 0 0 8px rgba(255, 255, 255, .4);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+@media (max-width: 48em) {
+  .sidebarimage {
+position:page;
+  margin-left:  auto;
+  margin-right: auto;
+  }
 }
 
 .images{
@@ -63,6 +97,11 @@ img {
     border-radius: 5px;
     /*border: solid 1px #9a9a9a;*/
    }
+
+/*a {
+  display:inline-block;
+  color: #268bd2;
+  text-decoration: none;*/
 
 .imageslink{
     display:inline-block;
@@ -76,16 +115,46 @@ img {
  a.imageslink:hover
 {
 /*border-color: aqua;*/
-    box-shadow: rgba(0,0,0,0.1) 0 0 5px 3px;
+    box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px;
     -webkit-box-shadow: rgba(0,0,0,0.1) 0 0 5px 3px;
     -moz-box-shadow: rgba(0,0,0,0.1) 0 0 5px 3px;
-
 }
 
  .image-frame {
      background-color: #fff;
      box-shadow: inset rgba(247,247,247,1) 0 0 60px 70px;
  }
+
+ /*Bilder in Text einbetten*/
+ .links {
+float: left;
+margin-right: 1rem;
+margin-bottom: 1rem;
+} 
+@media (max-width: 23em) {
+  .links {
+float:none;
+margin-left: auto;
+margin-right: auto;
+margin-top: 1rem;
+margin-bottom: 1rem;
+  }
+}
+
+ .rechts {
+float: right;
+margin-left: 1rem;
+margin-bottom: 1rem;
+} 
+@media (max-width: 23em) {
+  .rechts {
+float:none;
+margin-left: auto;
+margin-right: auto;
+margin-top: 1rem;
+margin-bottom: 1rem;
+  }
+}
 
  .post-location {
   display: block;
@@ -119,6 +188,17 @@ img {
     text-align: left;
   }
 }
+
+@media (min-width: 48em) {
+  .sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    bottom: 1rem;
+    left:   1rem;
+    top:    1rem;
+  }
+}
+
 
 /*
  * Reverse layout
