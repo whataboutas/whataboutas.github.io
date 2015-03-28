@@ -4,13 +4,12 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  <span class="post-location">{{ page.location }}</span>
+  <span class="post-date">{{ page.date | date_to_string }} &middot; {{ page.location }}</span>
   
   {{ content }}
 </div>
-
-		{% include comments.html %}
+<a name="comments" />
+{% include comments.html %}
 
 <!-- <div class="related">
   <h2>Related Posts</h2>

@@ -12,8 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-	<span class="post-location">{{ post.location }}</span>
+    <span class="post-date">{{ post.date | date_to_string }} &middot; {{ post.location }} &middot; <a href="{{ post.url }}#comments">kommentieren</a></span>
 
     {{ post.content }}
   </div>

@@ -1,0 +1,35 @@
+---
+layout: post
+title: Ein Text mit Bild!
+comments: True
+location: Vienna, Austria
+---
+
+Hier schreibe ich einen Text.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+
+<a href='/images/04/IMG_0009.jpg' data-lightbox='Post' title='Ein Nachmittag in Gjirokaster'
+><img class='img-wide' src='/images/04/IMG_0009.jpg' /></a>
+
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+
+<div class="image-frame">
+<a href='/images/04/IMG_0009.jpg' class='imageslink' data-lightbox='Gallery' title='Ein Nachmittag in Gjirokaster'
+><img class='images' src='/images/04/thumbs/IMG_0009.jpg' /></a>
+<a href='/images/04/IMG_0032.jpg' class='imageslink' data-lightbox='Gallery' title='Die Burg von Gjirokaster'
+><img class='images' src='/images/04/thumbs/IMG_0032.jpg' /></a>
+<a href='/images/04/IMG_0078.jpg' class='imageslink' data-lightbox='Gallery' title='Dubrovnik!'
+><img class='images' src='/images/04/thumbs/IMG_0078.jpg' /></a>
+<a href='/images/04/IMG_0181.jpg' class='imageslink' data-lightbox='Gallery' title='Brasov, Rum&auml;nien'
+><img class='images' src='/images/04/thumbs/IMG_0181.jpg' /></a>
+<a href='/images/04/IMG_0204.jpg' class='imageslink' data-lightbox='Gallery' title='Einer der Plitvice-Seen'
+><img class='images' src='/images/04/thumbs/IMG_0204.jpg' /></a>
+<a href='/images/04/IMG_0271.jpg' class='imageslink' data-lightbox='Gallery' title='Silvester in Bukarest'
+><img class='images' src='/images/04/thumbs/IMG_0271.jpg' /></a>
+<a href='/images/04/IMG_0319.jpg' class='imageslink' data-lightbox='Gallery' title='Kotor, Montenegro'
+><img class='images' src='/images/04/thumbs/IMG_0319.jpg' /></a>
+<a href='/images/04/IMG_1148.jpg' class='imageslink' data-lightbox='Gallery' title='Sexy Beachboy!'
+><img class='images' src='/images/04/thumbs/IMG_1148.jpg' /></a>
+</div>
+
