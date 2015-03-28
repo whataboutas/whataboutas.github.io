@@ -13,12 +13,30 @@ title: Home
 	  
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }} &middot; {{ post.location }} </span>
+    <span class="post-date"> 
+	<!-- Anfang Datum -->
+		{% assign m = post.date | date: "%-m" %}
+		{{ post.date | date: "%d" }}.
+		{% case m %}
+		  {% when '1' %}Januar
+		  {% when '2' %}Februar
+		  {% when '3' %}M&auml;rz
+		  {% when '4' %}April
+		  {% when '5' %}Mai
+		  {% when '6' %}Juni
+		  {% when '7' %}Juli
+		  {% when '8' %}August
+		  {% when '9' %}September
+		  {% when '10' %}Oktober
+		  {% when '11' %}November
+		  {% when '12' %}Dezember
+		{% endcase %}
+		{{ post.date | date: "%Y" }}
+		   <!-- Ende Datum -->
+	&middot; {{ post.location }} &middot; <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+   </span>
     
 	{{ post.content }}
-	
-	<br>
-	<a href="{{ post.url }}">Kommentare</a> <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
   </div>
   <hr>
   {% endfor %}
