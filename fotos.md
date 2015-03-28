@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fotos
+comments: True
 ---
 ####Indien 2015
 <hr>
