@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <p>
 <a  href='/images/04/IMG_0009.jpg' data-lightbox='Post' title='Stra&szlig;e in Gjirokaster'
-><img class='img-wide' src='/images/04/IMG_0009.jpg' /></a>
+><img class='img-wide' src='/images/02/previews/IMG_0009.jpg' /></a>
 </p>
 
 <p>
@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <p>
 
 <a  href='/images/fotogalerie/balkan_hipster/IMG_0032.jpg' data-lightbox='Post' title='Die Burg von Gjirokaster'
-><img class='rechts' src='/images/fotogalerie/balkan_hipster/IMG_0032.jpg' width='200px' height='267' /></a>
+><img class='rechts' src='/images/02/previews/IMG_0032.jpg' width='200px' height='267' /></a>
 
 Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 </p>
