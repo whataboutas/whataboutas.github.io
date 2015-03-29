@@ -28,7 +28,7 @@ title: Archiv
 {% endcase %}
 {{ post.date | date: "%Y" }}
 &raquo;
-<a href="{{ post.url }}">{{ post.title }}</a>
+<a href="{{ post.url }}#post_start">{{ post.title }}</a>
 </li>
 {% endfor %}
 </ul>
