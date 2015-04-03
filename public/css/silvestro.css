@@ -92,9 +92,10 @@ position:page;
 }
 
 .images{
-    display:flexbox;
+    display:block;
+    /*float:inherit;*/
     height: 5em;
-    margin: 0em 0em 0em 0em;
+    margin: -1em 0em 0em 0em;
     border-radius: 5px;
     /*border: solid 1px #9a9a9a;*/
    }
@@ -105,7 +106,7 @@ position:page;
   text-decoration: none;*/
 
 .imageslink{
-    display:inline-block;
+    display:inline-table;
     /*position:relative;*/
     height: 5em;
     margin: 1em 0em 0em 0em;
@@ -116,12 +117,14 @@ position:page;
  a.imageslink:hover
 {
 /*border-color: aqua;*/
-    box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px;
+    /*box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px;
     -webkit-box-shadow: rgba(0,0,0,0.1) 0 0 5px 3px;
-    -moz-box-shadow: rgba(0,0,0,0.1) 0 0 5px 3px;
+    -moz-box-shadow: rgba(0,0,0,0.1) 0 0 5px 3px;*/
+    opacity:0.7; filter:alpha(opacity=70);
 }
 
  .image-frame {
+     text-align:right;
      background-color: #fff;
      box-shadow: inset rgba(247,247,247,1) 0 0 60px 70px;
  }
