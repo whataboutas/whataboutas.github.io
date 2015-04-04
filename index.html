@@ -36,7 +36,8 @@ title: Home
 	&middot; {{ post.location }} &middot; <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
    </span>
     
-	{{ post.content }}
+	{{ post.excerpt }}
+	<a href="{{ post.url}}">[...]</a>
   </div>
   <hr>
   {% endfor %}

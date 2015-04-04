@@ -33,7 +33,7 @@ Während ich die "Mädchenvariante" mit 2 Gepäckstücken gewählt habe (man dar
 ---
 ##Silvester
 <p>
-Ich habe eher den minimimalistischen Ansatz gewählt - ich möchte nur mit Handgepäck reisen!
+Ich habe eher den minimalistischen Ansatz gewählt - ich möchte nur mit Handgepäck reisen!
 Das ist alles was ich mitnehme:
 </p>
 <p>
