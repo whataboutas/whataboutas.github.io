@@ -49,7 +49,7 @@ Das ist alles was ich mitnehme:
  + Elektronik: Laptop, Handy, Gopro, Panasonic Lumix Kompaktkamera, alles inklusive Ladegeräte und Kabel; dazu ein GorillaPod-Stativ! (Das ist toll!)
  + Gear: Eine Regenjacke, eine Bettwäsche und ein Salewa Ultralight Zweitrucksack - alles in praktischen Beuteln und sehr klein komprimiert
  + Sonstiges: Reisepass, Zahlenschloss, Eine Hüfttasche für Wertsachen, ein großes Mikrofaserhandtuch, extrasoft
- + Rucksack: Tatonka FlightCase und drei Ordnungspacks mit Zippverschluss, für die ordentliche Ordnung im Gepäck.
+ + Rucksack: Tatonka FlightCase (38 Liter) und drei Ordnungspacks mit Zippverschluss, für die ordentliche Ordnung im Gepäck.
 
 ###Verpackung
 <p>
