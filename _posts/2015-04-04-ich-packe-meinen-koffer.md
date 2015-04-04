@@ -5,7 +5,7 @@ title: Ich packe meinen Koffer...
 location: Wien, Österreich
 ---
 <p>
-<a  href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/P1050551.jpg' data-lightbox='Post' title='Ein Übersicht über unser Zeug'
+<a  href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/P1050551.jpg' data-lightbox='Post' title='Was muss mit?'
 ><img class='img-wide' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/previews/P1050551.jpg' /></a>
 </p>
 <p>
@@ -23,13 +23,13 @@ Es haben sich bei uns unterschiedliche Philosophien herauskristallisiert, und im
 Ich schwöre auf meinen 55-Liter-McKinley-Rucksack, der mir bereits von Mexiko bis Marokko treue Dienste geleistet hat. Befüllt wird er mit allem "what a girl needs": Bekleidung, die nach dem altbewährten Mix-`n`-Match-System kombiniert werden kann, ein Paar Vivobarefoot, FlipFlops, Hoodie, Windjacke und ein Schal. Zusätzlich gibt's Leggings für das perfekte "Oooommmm..." auf der Yogamatte in Rishikesh und ein kurzes Kleid für romantische Sonnenuntergänge in Goa. Für die äußere Schönheit wird der Toilettbeutel spartanisch nur mit dem Nötigsten befüllt - für die innere Schönheit sollen (hoffentlich nur im Notfall) Kohletabletten, Antibiophilus und Imodium sorgen... Mikrofaser-Handtücher, Schlafsack und ein faltbarer Nylonrucksack komplettieren das Globetrotter-Equipment! Damit uns keine Sehenswürdigkeit entgeht, werden der Baedeker-Reiseführer und die Nikon D 5300 in den kommenden 5 Wochen unsere treuesten Begleiter sein!
 Während ich die "Mädchenvariante" mit 2 Gepäckstücken gewählt habe (man darf das Souvenir-Angebot und diverse Shopping-Möglichkeiten niemals unterschätzen!), versucht Silvester sein Glück mit "Weniger ist mehr" - oder eher "Noch weniger ist halt einfach wenig"...
 </p>
-<div class="image-frame">
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackAngela/IMG_0003.JPG' class='imageslink' data-lightbox='Angela' title='2...'
+<div class='image-frame'>
+<div class='nailthumb-container square-thumb'><a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackAngela/IMG_0003.JPG' class='imageslink' data-lightbox='Gallery' title='2...'
 ><img class='images' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackAngela/thumbs/IMG_0003.JPG' /></a>
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackAngela/IMG_0004.JPG' class='imageslink' data-lightbox='Angela' title='1...FERTIG!'
+</div><div class='nailthumb-container square-thumb'><a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackAngela/IMG_0004.JPG' class='imageslink' data-lightbox='Gallery' title='1...FERTIG!'
 ><img class='images' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackAngela/thumbs/IMG_0004.JPG' /></a>
 </div>
-
+</div>
 ---
 ##Silvester
 <p>
@@ -55,27 +55,29 @@ Das ist alles was ich mitnehme:
 Zu Testzwecken (und auch als Maßnahme gegen zu viel unnötiges Zeug) habe ich hier alles (wirklich ALLES!) was ich auf die Reise mitnehme, eingepackt.
 Natürlich wird der Rucksack in dieser Form nie gepackt sein (außer ich habe das Bedürfnis komplett nackt meinen Rucksack zu tragen) und so bin ich zuversichtlich, dass ich bei der Rückreise genügend Platz für Souvenirs haben werde :-)
 </p>
-<div class="image-frame">
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0006.JPG' class='imageslink' data-lightbox='Gallery' title='Mein gesamtes Bekleidung: Unterwäsche, Hosen, Shirts, Hemd, Badehose.'
+<div class='image-frame'>
+<div class='nailthumb-container square-thumb'><a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0006.JPG' class='imageslink' data-lightbox='Gallery' title='Mein gesamtes Bekleidung: Unterwäsche, Hosen, Shirts, Hemd, Badehose.'
 ><img class='images' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/thumbs/IMG_0006.JPG' /></a>
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0007.JPG' class='imageslink' data-lightbox='Gallery' title='Da schlägt mein Gadget-Herz höher: Gopro inklusive Mounts (inklusive Headmount and Wristmount!), Akku-Block, USB-Verteiler mit Netzteil, Handyladegerät, Kabel... You get the point. Links unseren neuen GorillaPod, Rechts die Lumix und mein Handy.'
+</div><div class='nailthumb-container square-thumb'><a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0007.JPG' class='imageslink' data-lightbox='Gallery' title='Da schlägt mein Gadget-Herz höher: Gopro inklusive Mounts (inklusive Headmount and Wristmount!), Akku-Block, USB-Verteiler mit Netzteil, Handyladegerät, Kabel... You get the point. Links unseren neuen GorillaPod, Rechts die Lumix und mein Handy.'
 ><img class='images' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/thumbs/IMG_0007.JPG' /></a>
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0009.JPG' class='imageslink' data-lightbox='Gallery' title='Gadget-Koffer, GorillaPod, Regenjacke, Bettwäsche und der Salewa 2 Liter-Rucksack, komprimiert auf die Größe eines Apfels!'
+</div><div class='nailthumb-container square-thumb'><a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0009.JPG' class='imageslink' data-lightbox='Gallery' title='Gadget-Koffer, GorillaPod, Regenjacke, Bettwäsche und der Salewa 2 Liter-Rucksack, komprimiert auf die Größe eines Apfels!'
 ><img class='images' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/thumbs/IMG_0009.JPG' /></a>
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0010.JPG' class='imageslink' data-lightbox='Gallery' title='Alles im Rucksack platziert, inklusive Vivobarefoots, Flipflops und Toilettbeutel.'
+</div><div class='nailthumb-container square-thumb'><a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0010.JPG' class='imageslink' data-lightbox='Gallery' title='Alles im Rucksack platziert, inklusive Vivobarefoots, Flipflops und Toilettbeutel.'
 ><img class='images' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/thumbs/IMG_0010.JPG' /></a>
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0011.JPG' class='imageslink' data-lightbox='Gallery' title='Laptop im Laptopfach, zusätzlich gepolstert durch das Mikrofaserhandtuch.'
+</div><div class='nailthumb-container square-thumb'><a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0011.JPG' class='imageslink' data-lightbox='Gallery' title='Laptop im Laptopfach, zusätzlich gepolstert durch das Mikrofaserhandtuch.'
 ><img class='images' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/thumbs/IMG_0011.JPG' /></a>
+</div>
 </div>
 
 <p>
 Passt super und wiegt alles in allem knapp über 9kg. Falls der Rucksack doch mal zu schwer für Handgepäck sein sollte, kann man übrigens mithilfe eines zippbaren Überzugs die Träger verstecken und ihn somit zu einer transportfähigen Tasche umwandeln. Top!
 </p>
-<div class="image-frame">
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0012.JPG' class='imageslink' data-lightbox='Gallery' title='Der Tatonka FlightCase in seiner gepackten Form!'
+<div class='image-frame'>
+<div class='nailthumb-container square-thumb'><a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0012.JPG' class='imageslink' data-lightbox='Gallery' title='Der Tatonka FlightCase in seiner gepackten Form!'
 ><img class='images' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/thumbs/IMG_0012.JPG' /></a>
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0013.JPG' class='imageslink' data-lightbox='Gallery' title='Träger in Gebrauch...'
+</div><div class='nailthumb-container square-thumb'><a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0013.JPG' class='imageslink' data-lightbox='Gallery' title='Träger in Gebrauch...'
 ><img class='images' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/thumbs/IMG_0013.JPG' /></a>
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0014.JPG' class='imageslink' data-lightbox='Gallery' title='... und Träger hinter dem Überzug versteckt.'
+</div><div class='nailthumb-container square-thumb'><a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/IMG_0014.JPG' class='imageslink' data-lightbox='Gallery' title='... und Träger hinter dem Überzug versteckt.'
 ><img class='images' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackSilvester/thumbs/IMG_0014.JPG' /></a>
+</div>
 </div>

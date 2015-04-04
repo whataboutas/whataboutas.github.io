@@ -42,9 +42,10 @@ margin-right: 1rem;
 .fluidMedia {
     position: relative;
     /*padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
-    padding-bottom: 56.25%; 
-    padding-top: 30px;
-    height: 0;
+    /*padding-bottom: 56.25%;*/ 
+    /*padding-top: 30px;*/
+    /*height: 0;*/
+    width:100%;
     overflow: hidden;
 }
 
@@ -104,13 +105,28 @@ position:page;
 }
 
 .images{
-    display:block;
+    /*display:inline-block;*/
     /*float:inherit;*/
-    height: 5em;
-    margin: -1em 0em 0em 0em;
-    border-radius: 5px;
+    /*height: 5em;*/
+    margin: 0em 0em 0em 0em;
+    padding: 0px 0px 0px 0px;
+    border-radius: 0px;
     /*border: solid 1px #9a9a9a;*/
+    width:auto;
+    height: 150%;
+
    }
+/*.imagescontainer{
+    display:inline-block;
+    height:100px;
+    width:100px;
+    overflow:hidden;
+    margin: -0.5em 0em 0em 0em;
+        /*border-radius: 5px;*/
+            /*border: solid 1px #9a9a9a;*/
+            /*text-align:center;*/
+            /*background: #FFF;*/
+}*/
 
 /*a {
   display:inline-block;
@@ -118,12 +134,12 @@ position:page;
   text-decoration: none;*/
 
 .imageslink{
-    display:inline-table;
+    /*display:inline-table;*/
     /*position:relative;*/
-    height: 5em;
-    margin: 1em 0em 0em 0em;
-    border-radius: 5px;
-    padding: 0 0 0em 0;
+    height: 100%;
+    margin: 0em 0em 0em 0em;
+    /*border-radius: 5px;*/
+    padding: 0 0 0 0;
    }
 
  a.imageslink:hover
@@ -136,9 +152,9 @@ position:page;
 }
 
  .image-frame {
-     text-align:right;
-     background-color: #fff;
-     box-shadow: inset rgba(247,247,247,1) 0 0 60px 70px;
+     text-align:left;
+     /*background-color: #fff;*/
+     /*box-shadow: inset rgba(247,247,247,1) 0 0 60px 70px;*/
  }
 
  /*Bilder in Text einbetten*/
