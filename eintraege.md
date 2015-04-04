@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Archiv
+title: Einträge
 ---
-
-## Eintr&auml;ge
-
 <div>
 <ul>
 {% for post in site.posts %}

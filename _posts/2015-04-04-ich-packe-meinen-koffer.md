@@ -2,7 +2,7 @@
 layout: post
 comments: True
 title: Ich packe meinen Koffer...
-location: Vienna, Austria
+location: Wien, Österreich
 ---
 <p>
 <a  href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/P1050551.jpg' data-lightbox='Post' title='Ein Übersicht über unser Zeug'
