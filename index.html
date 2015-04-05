@@ -33,7 +33,9 @@ title: Home
 		{% endcase %}
 		{{ post.date | date: "%Y" }}
 		   <!-- Ende Datum -->
-	&middot; {{ post.location }} &middot; <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+	&middot; {{ post.location }}
+	</br>
+	<a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
    </span>
     
 	{{ post.excerpt }}

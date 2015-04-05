@@ -25,7 +25,8 @@ title: Einträge
 {% endcase %}
 {{ post.date | date: "%Y" }}
 &raquo;
-<a href="{{ post.url }}">{{ post.title }}</a>
+<a href="{{ post.url }}">{{ post.title }}</a> 
+<!-- &middot; <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a> -->
 </li>
 {% endfor %}
 </ul>
