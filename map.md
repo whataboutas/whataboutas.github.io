@@ -1,17 +1,20 @@
 ---
 layout: page
 title: Map
+comments: True
 ---
 ###Hier sind wir gerade:
 (letzter Kontakt mit dem Internet)
-(coming soon)
-<div class="fluidMedia" style="width: 100%;">
-<iframe width="700" height="200" frameborder="0" scrolling="no" src="http://www.quoox.net/tracker/showmap_share.php?tid=506234&zoom=15&type=satellite"></iframe>
+<div class="mapframe">
+<iframe width="100%" height="200" frameborder="0" scrolling="no" src="http://www.quoox.net/tracker/showmap_share.php?tid=740105&zoom=15&type=satellite"> </iframe>
 </div>
-<p>Tracking service powered by <a href="http://www.quoox.net/tracker">quoox|TRACKER</a>.</p>
 ###Unsere bisherige Route:
-(coming soon)
-<p>Map by <a href="http://www.gpsvisualizer.com/">GPS Visualizer</a>.</p>
+<div class="mapframe">
+<iframe src="../public/gMap.html" width="100%" height="500" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"> </iframe>
+</div>
+<p>(Tracking service powered by <a href="http://www.quoox.net/tracker">quoox|TRACKER</a>. Map by <a href="http://www.gpsvisualizer.com/">GPS Visualizer</a>.)</p>
+
+
 
 
 
