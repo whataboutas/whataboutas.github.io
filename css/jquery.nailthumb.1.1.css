@@ -24,7 +24,8 @@
   overflow: hidden;
   position: relative;
   text-align: left;
-  border-radius: 0px;
+  border-radius: 3px;
+
 }
 .nailthumb-container img.nailthumb-image {
   margin: 0px;
