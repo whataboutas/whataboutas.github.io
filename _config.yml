@@ -25,3 +25,5 @@ github:
   repo:           
 highlighter: pygments
 markdown: redcarpet
+
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
