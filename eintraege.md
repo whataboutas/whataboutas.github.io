@@ -8,7 +8,7 @@ title: Einträge
 <li>
 <!-- Whitespace added for readability -->
 {% assign m = post.date | date: "%-m" %}
-{{ post.date | date: "%-d" }}
+{{ post.date | date: "%-d" }}.
 {% case m %}
   {% when '1' %}Januar
   {% when '2' %}Februar
