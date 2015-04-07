@@ -13,7 +13,7 @@ location: Wien, Österreich
 Unsere Packkünste werden auf die Probe gestellt: Wie groß soll der Rucksack sein? Wieviele Liter brauchen wir mindestens? Was soll an Bekleidung mit, was brauchen wir an Ausrüstung? Was ist überflüssig?
 Es haben sich bei uns unterschiedliche Philosophien herauskristallisiert, und im Endeffekt könnten unsere Gepäckstücke unterschiedlicher nicht sein:
 </p>
-
+<!--more-->
 ##Angela
 <p>
 <a  href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-03-ich-packe-meinen-koffer/RucksackAngela/IMG_0002.JPG' data-lightbox='Angela' title='3...'
