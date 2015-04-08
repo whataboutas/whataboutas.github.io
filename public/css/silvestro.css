@@ -162,7 +162,8 @@ position:page;
  .links {
 float: left;
 margin-right: 1rem;
-margin-bottom: 1rem;
+margin-bottom: 0.5rem;
+margin-top: 0.5rem;
 } 
 @media (max-width: 23em) {
   .links {
@@ -177,7 +178,8 @@ margin-bottom: 1rem;
  .rechts {
 float: right;
 margin-left: 1rem;
-margin-bottom: 1rem;
+margin-bottom: 0.5rem;
+margin-top: 0.5rem;
 } 
 @media (max-width: 23em) {
   .rechts {
