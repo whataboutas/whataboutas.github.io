@@ -9,7 +9,7 @@ location: Jaisalmer, Indien
 ><img class='img-wide' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-12-jaisalmer-khuri/previews/DSC_1024.jpg' /></a>
 </p>
 <p>
-"Good monring Madam and Sir, welcome to my beautiful town Jaisalmer!" Wir sind wieder einmal mit einem Guide unterwegs, allerdings nicht, um uns hartnäckige Verkäufer und Kühe vom Leib zu halten, sondern weil wir befürchten, dass wir alleine weder von unserem Hotel zum Fort finden noch rechtzeitig wieder zurück. Jaisalmer ist eine Wüstenstadt mit engen Gassen, wunderschönen noch erhaltenen Havelis (Handelshäuser) und einer Festung, die bis heute von einem Teil der Bevölkerung bewohnt ist.
+"Good morning Madam and Sir, welcome to my beautiful town Jaisalmer!" Wir sind wieder einmal mit einem Guide unterwegs, allerdings nicht, um uns hartnäckige Verkäufer und Kühe vom Leib zu halten, sondern weil wir befürchten, dass wir alleine weder von unserem Hotel zum Fort finden noch rechtzeitig wieder zurück. Jaisalmer ist eine Wüstenstadt mit engen Gassen, wunderschönen noch erhaltenen Havelis (Handelshäuser) und einer Festung, die bis heute von einem Teil der Bevölkerung bewohnt ist.
 </p>
 <!--more-->
 <p>
