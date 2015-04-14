@@ -95,7 +95,7 @@ Wir staunen, tanzen, essen und trinken und vergessen dabei beinahe, dass wir bal
 22:00 - unsere spartanischen Betten werden aus dem Jeep ausgeladen und auf der Düne platziert. In dieser Nacht sind wir die einzigen Wüstenschläfer und haben obendrein unglaubliches Glück mit dem Wetter, denn die Nacht ist sternenklar. Eingerollt in warme Decken genießen wir nicht nur die frische Luft, sondern auch die Stille der Wüste, denn erstmals bleiben wir von Müllgestank und hupenden Autos verschont.
 </p>
 <p>
-<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-12-jaisalmer-khuri/DSC_1414.JPG' data-lightbox='Post' title='Unser Jeepfahrer aus Khuri und SIlvester beim Bett machen - mitten auf den Dünen der indischen Wüste'
+<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-12-jaisalmer-khuri/DSC_1414.JPG' data-lightbox='Post' title='Unser Jeepfahrer aus Khuri und Silvester beim Bett machen - mitten auf den Dünen der indischen Wüste'
 ><img class='img-wide' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-12-jaisalmer-khuri/DSC_1414.JPG' /></a>
 </p>
 <p>
