@@ -1,0 +1,10 @@
+---
+layout: post
+comments: True
+title: Nationalpark Ranthambore
+location: Rhantambore, Indien
+---
+<p>
+<a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-20-ranthambore/P1050704.JPG' data-lightbox='Post' title='Aloo Parantha und Veg. Biryani'
+><img class='img-wide' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-17-special-cooking-in-pushkar/previews/P1050704.jpg' /></a>
+</p>
