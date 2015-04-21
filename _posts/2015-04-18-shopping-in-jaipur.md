@@ -11,6 +11,7 @@ location: Jaipur, Indien
 <p>
 Nach zwei Nächten im heiligen und verträumten Pushkar freuen wir uns wieder auf eine Großstadt, und zwar auf die Hauptstadt von Rajasthan: Jaipur. Der Grund für die Vorfreude ist nicht unbedingt die Tatsache, dass der Verkehr (noch) dichter wird, die Luft (noch) schlechter oder die Müllberge (noch) höher werden, sondern das Versprechen von Fahrer Sonu, dass Jaipur das Paradies für Shopaholics ist. Der Großteil der Kunsthandwerke aus Holz und Bronze, feine Stoffe, Gold- und Silberschmuck mit kostbaren Edelsteinen und bunte Lederware (Kamelleder) wird in Jaipur hergestellt und exportiert. Die Großhändler verkaufen ihre Ware in ihren eigenen Schauräumen und bieten besonders günstige Preise.
 </p>
+<!--more-->
 <p>
 „Don’t buy anything in Bikaner, Jaisalmer and Jodhpur – wait for Jaipur! Best quality, best prices!” Wir haben Sonu mit diesem Versprechen vertraut und fleißig gespart. Obwohl es in Jaipur vieles zu sehen gibt, haben wir sogar unser gesamtes Sight-Seeing-Programm auf den nächsten Tag verlegt, um uns heute dem Konsumwahn hingeben zu können. Wir sind bereit, von einem zum nächsten Showroom geschleppt zu werden, um dort mit Chai-Tee (im wahrsten Sinne des Wortes) eingekocht zu werden.
 </p>
