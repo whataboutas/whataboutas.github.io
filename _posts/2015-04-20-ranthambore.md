@@ -9,7 +9,10 @@ location: Ranthambore, Indien
 ><img class='img-wide' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-20-ranthambore/previews/DSC_2887_cropped.jpg' /></a>
 </p>
 <p>
-Tagwache 6:00. Erstmals ohne Frühstück besteigen wir um 7:00 unsere TATA-Limousine, denn wir müssen spätestens um 11:30 unsere Tickets für die Safari im Ranthambore Nationalpark abholen. Als Proviant gibt’s (wieder mal) Bananen und Mandarinen. 
+Tagwache 6:00. Erstmals ohne Frühstück besteigen wir um 7:00 unsere TATA-Limousine, denn wir müssen spätestens um 11:30 unsere Tickets für die Safari im Ranthambore Nationalpark abholen. Als Proviant gibt’s (wieder mal) Bananen und Mandarinen.
+</p>
+<!--more-->
+<p>
 Früher als erwartet erreichen wir Ranthambore. Sonu hat bereits bei einem privaten Safari-Unternehmen zwei Plätze für uns gesichert. Als wir ankommen, steht der Chef noch unter der Dusche. Man lässt uns warten. Als wir langsam ungeduldig werden erklärt uns Sonu, dass die Dusche für den Hindu ein wichtiges Ritual am Morgen ist, bei dem auch meistens neben dem eigenen Körper die Wäsche gewaschen wird. Wir beobachten einstweilen die Ehefrau beim Saubermachen des staubigen Hofes mit einem kleinen Reisigbesen. Dazwischen laufen die Hühner umher.
 </p>
 <p>
