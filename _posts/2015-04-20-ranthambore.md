@@ -2,7 +2,7 @@
 layout: post
 comments: True
 title: Ranthambore Nationalpark
-location: Ranthambore, Indien
+location: Ranthambore, Rajasthan, Indien
 ---
 <p>
 <a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-20-ranthambore/DSC_2887_cropped.jpg' data-lightbox='Post' title='Im Nationalpark von Ranthambore'

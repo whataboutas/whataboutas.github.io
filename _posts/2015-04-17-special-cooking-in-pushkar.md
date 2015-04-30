@@ -2,7 +2,7 @@
 layout: post
 comments: True
 title: Special - Cooking in Pushkar
-location: Pushkar, Indien
+location: Pushkar, Rajasthan, Indien
 ---
 <p>
 <a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-17-special-cooking-in-pushkar/P1050704.JPG' data-lightbox='Post' title='Aloo Parantha und Veg. Biryani'
