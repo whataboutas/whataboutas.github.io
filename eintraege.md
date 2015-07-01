@@ -3,14 +3,6 @@ layout: page
 title: Einträge
 ---
 <div>
-<h3>Kategorien:</h3>
-{% for tag in site.data.tags %}
-<p><i class="fa fa-tag"></i> <a href="../../../../blog/tag/{{ tag.slug }}/">{{ tag.name }}</a></p>
-{% endfor %}
-</div>
---------------------
-<div>
-<h3>Alle Einträge:</h3>
 <ul>
 {% for post in site.posts %}
 <li>
@@ -39,9 +31,3 @@ title: Einträge
 {% endfor %}
 </ul>
 </div>
-
-
-
-
-
-

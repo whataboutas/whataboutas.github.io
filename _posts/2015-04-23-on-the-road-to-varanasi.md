@@ -3,7 +3,6 @@ layout: post
 comments: True
 title: On the Road to Varanasi
 location: Varanasi, Uttar Pradesh, Indien
-tags: [Indien]
 ---
 <p>
 <a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-23-on-the-road-to-varanasi/DSC_3529.JPG' data-lightbox='Post' title='Studie zur örtlichen Bevölkerung 1'

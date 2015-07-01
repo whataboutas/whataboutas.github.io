@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -33,7 +34,6 @@ title: Home
 		{{ post.date | date: "%Y" }}
 		   <!-- Ende Datum -->
 	&middot; {{ post.location }}
-
 	</br>
 	<a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
    </span>

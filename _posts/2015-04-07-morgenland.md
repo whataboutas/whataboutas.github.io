@@ -3,7 +3,6 @@ layout: post
 comments: True
 title: Morgenland
 location: Dubai, Vereinigte Arabische Emirate
-tags: [Indien]
 ---
 <p>
 <a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-07-morgenland/P1050583.JPG' data-lightbox='Post' title='Morgenstimmung im Flugzeug'
