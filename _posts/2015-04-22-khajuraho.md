@@ -3,6 +3,7 @@ layout: post
 comments: True
 title: Khajuraho
 location: Khajuraho, Madhya Pradesh, Indien
+tags: [Indien]
 ---
 <p>
 <a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-22-khajuraho/DSC_3320.JPG' data-lightbox='Post' title='Lakshmana-Tempel'

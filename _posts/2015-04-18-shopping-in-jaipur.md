@@ -3,6 +3,7 @@ layout: post
 comments: True
 title: Shopping in Jaipur
 location: Jaipur, Rajasthan, Indien
+tags: [Indien]
 ---
 <p>
 <a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-18-shopping-in-jaipur/DSC_2292.JPG' data-lightbox='Post' title='Seidenstoffe bei "Ustav Export"'
