@@ -1,19 +1,13 @@
 ---
-layout: page
-title: Einträge
+layout: default
+Title: Einträge
 ---
+<h1>Einträge: {{ page.tag }}</h1>
 <div>
-<h3>Kategorien:</h3>
-{% for tag in site.data.tags %}
-<p><i class="fa fa-tag"></i> <a href="../../../../blog/tag/{{ tag.slug }}/">{{ tag.name }}</a></p>
-{% endfor %}
-</div>
---------------------
-<div>
-<h3>Alle Einträge:</h3>
-<ul>
-{% for post in site.posts %}
-<li>
+    {% if site.tags[page.tag] %}
+	<ul>
+        {% for post in site.tags[page.tag] %}
+			<li>
 <!-- Whitespace added for readability -->
 {% assign m = post.date | date: "%-m" %}
 {{ post.date | date: "%-d" }}.
@@ -36,11 +30,12 @@ title: Einträge
 <a href="{{ post.url }}">{{ post.title }}</a> 
 <!-- &middot; <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a> -->
 </li>
-{% endfor %}
-</ul>
+        {% endfor %}
+		</ul>
+    {% else %}
+        <p>Keine Einträge in dieser Kategorie.</p>
+    {% endif %}
 </div>
-
-
 
 
 

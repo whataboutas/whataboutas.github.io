@@ -3,6 +3,7 @@ layout: post
 comments: True
 title: Jaisalmer & Khuri
 location: Jaisalmer, Indien
+tags: [Indien]
 ---
 <p>
 <a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-12-jaisalmer-khuri/DSC_1024.JPG' data-lightbox='Post' title='In einem Jain-Tempel von Jaisalmer'

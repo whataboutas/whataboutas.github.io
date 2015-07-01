@@ -3,6 +3,7 @@ layout: post
 comments: True
 title: Rishikesh
 location: Rishikesh, Uttarakhand, Indien
+tags: [Indien]
 ---
 <p>
 <a href='http://whataboutas.data.s3.amazonaws.com/images/2015-05-05-rishikesh/DSC_4946.JPG' data-lightbox='Post' title='"Standing Bow" am Ufer des Ganges'><img class='img-wide' src='http://whataboutas.data.s3.amazonaws.com/images/2015-05-05-rishikesh/previews/DSC_4946.jpg' /></a>

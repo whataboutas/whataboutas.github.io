@@ -3,6 +3,7 @@ layout: post
 comments: True
 title: On the road to Jaisalmer
 location: Jaisalmer, Indien
+tags: [Indien]
 ---
 <p>
 <a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-11-on-the-road-to-jaisalmer/DSC_0819_korr.jpg' data-lightbox='Post' title='Goldener Raum im Junagarh Fort'

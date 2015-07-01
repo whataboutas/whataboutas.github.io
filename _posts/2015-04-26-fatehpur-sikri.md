@@ -3,6 +3,7 @@ layout: post
 comments: True
 title: Fatehpur Sikri & Keoladeo-Ghana-Nationalpark
 location: Fatehpur Sikri, Uttar Pradesh, Indien
+tags: [Indien]
 ---
 <p>
 <a href='http://whataboutas.data.s3.amazonaws.com/images/2015-04-26-fatehpur-sikri/DSC_4234.JPG' data-lightbox='Post' title='Im Palast von Fatehpur Sikri'><img class='img-wide' src='http://whataboutas.data.s3.amazonaws.com/images/2015-04-26-fatehpur-sikri/previews/DSC_4234.jpg' /></a>
