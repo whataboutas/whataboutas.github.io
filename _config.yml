@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            What about Angela & Silvester?
 tagline:          Ein Reiseblog
-url:              http://blog.whataboutas.at
+url:              http://whataboutas.github.io
 paginate:         5
 baseurl:          /
 author:
