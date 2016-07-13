@@ -23,6 +23,6 @@ version:          1.0.0
 github:
   repo:           
 highlighter: rouge
-markdown: kramdown
+markdown: redcarpet
 
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
